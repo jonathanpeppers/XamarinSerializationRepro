@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerializationRepro", "SerializationRepro.csproj", "{2F25BA26-AD29-4D9E-B2CC-9A77FA55036B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F25BA26-AD29-4D9E-B2CC-9A77FA55036B}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{2F25BA26-AD29-4D9E-B2CC-9A77FA55036B}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{2F25BA26-AD29-4D9E-B2CC-9A77FA55036B}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{2F25BA26-AD29-4D9E-B2CC-9A77FA55036B}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{2F25BA26-AD29-4D9E-B2CC-9A77FA55036B}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{2F25BA26-AD29-4D9E-B2CC-9A77FA55036B}.Debug|iPhone.Build.0 = Debug|iPhone
+		{2F25BA26-AD29-4D9E-B2CC-9A77FA55036B}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{2F25BA26-AD29-4D9E-B2CC-9A77FA55036B}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{2F25BA26-AD29-4D9E-B2CC-9A77FA55036B}.Release|iPhone.ActiveCfg = Release|iPhone
+		{2F25BA26-AD29-4D9E-B2CC-9A77FA55036B}.Release|iPhone.Build.0 = Release|iPhone
+		{2F25BA26-AD29-4D9E-B2CC-9A77FA55036B}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{2F25BA26-AD29-4D9E-B2CC-9A77FA55036B}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = SerializationRepro.csproj
+	EndGlobalSection
+EndGlobal
